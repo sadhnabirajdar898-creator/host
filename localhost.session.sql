@@ -1,0 +1,11 @@
+-- SELECT datname FROM pg_database;
+
+-- CREATE DATABASE taskmanager;
+-- SELECT * FROM todos;
+-- CREATE TABLE todos (
+--     id SERIAL PRIMARY KEY,
+--     task TEXT NOT NULL,
+--     description TEXT,
+--     priority VARCHAR(20),
+--     user_id INTEGER NOT NULL
+-- )
